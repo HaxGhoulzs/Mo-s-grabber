@@ -7,7 +7,7 @@
 5. click build and wait untill the file finishes.
    #### educationall purposes ONLY
 
-## features
+## features👾
 
 Discord Info
 
